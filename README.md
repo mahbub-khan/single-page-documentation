@@ -24,6 +24,13 @@
 |  6  | NeverSkip | [Live Project: 🔗](https://mahbub-khan.github.io/Neverskip/) | [Github 🖥️](https://github.com/mahbub-khan/Neverskip) | A responsive webpage for an Indian Company     |
 |  7  | Zelp      | [Live Project: 🔗](https://mahbub-khan.github.io/zelp/)      | [Github 🖥️](https://github.com/mahbub-khan/zelp)      | A responsive landing page built while learning |
 
+### Simple Projects with JavaScript:
+
+|  #  | Title           | Live Preview                                                           | Codes                                                           | Description                            |
+| :-: | :-------------- | :--------------------------------------------------------------------- | :-------------------------------------------------------------- | :------------------------------------- |
+|  1  | Guess My Number | [Live Project: 🔗](https://mahbub-khan.github.io/guess-secret-number/) | [Github 🖥️](https://github.com/mahbub-khan/guess-secret-number) | A simple game to guess a secret number |
+|  2  | Dynamic Chart   | [Live Project: 🔗](https://mahbub-khan.github.io/dynamic-graph/)       | [Github 🖥️](https://github.com/mahbub-khan/dynamic-graph)       | A dynamic chart using chart.js         |
+
 ### Non-responsive:
 
 |  #  | Title  | Live Preview                                              | Codes                                              | Description       |
