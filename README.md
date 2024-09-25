@@ -12,6 +12,14 @@
 |  6  | Brandly       | [Live Project: 🔗](https://mahbub-khan.github.io/brandly/)     | [Github 🖥️](https://github.com/mahbub-khan/brandly)     | A responsive e-commerce homepage built while learning |
 |  7  | Dental Blog   | [Live Project: 🔗](https://mahbub-khan.github.io/dental-blog/) | [Github 🖥️](https://github.com/mahbub-khan/dental-blog) | A responsive webpage built while learning             |
 
+### Simple Projects with JavaScript:
+
+|  #  | Title           | Live Preview                                                           | Codes                                                           | Description                                  |
+| :-: | :-------------- | :--------------------------------------------------------------------- | :-------------------------------------------------------------- | :------------------------------------------- |
+|  1  | Guess My Number | [Live Project: 🔗](https://mahbub-khan.github.io/guess-secret-number/) | [Github 🖥️](https://github.com/mahbub-khan/guess-secret-number) | A simple game to guess a secret number       |
+|  2  | Roll a Dice     | [Live Project: 🔗](https://mahbub-khan.github.io/roll-a-dice/)         | [Github 🖥️](https://github.com/mahbub-khan/roll-a-dice)         | A fun game which is played by rolling a dice |
+|  3  | Dynamic Chart   | [Live Project: 🔗](https://mahbub-khan.github.io/dynamic-graph/)       | [Github 🖥️](https://github.com/mahbub-khan/dynamic-graph)       | A dynamic chart using chart.js               |
+
 ### Less Complex Designs:
 
 |  #  | Title     | Live Preview                                                 | Codes                                                 | Description                                    |
@@ -23,13 +31,6 @@
 |  5  | UI Brush  | [Live Project: 🔗](https://mahbub-khan.github.io/ui-brush/)  | [Github 🖥️](https://github.com/mahbub-khan/ui-brush)  | A responsive landing page built while learning |
 |  6  | NeverSkip | [Live Project: 🔗](https://mahbub-khan.github.io/Neverskip/) | [Github 🖥️](https://github.com/mahbub-khan/Neverskip) | A responsive webpage for an Indian Company     |
 |  7  | Zelp      | [Live Project: 🔗](https://mahbub-khan.github.io/zelp/)      | [Github 🖥️](https://github.com/mahbub-khan/zelp)      | A responsive landing page built while learning |
-
-### Simple Projects with JavaScript:
-
-|  #  | Title           | Live Preview                                                           | Codes                                                           | Description                            |
-| :-: | :-------------- | :--------------------------------------------------------------------- | :-------------------------------------------------------------- | :------------------------------------- |
-|  1  | Guess My Number | [Live Project: 🔗](https://mahbub-khan.github.io/guess-secret-number/) | [Github 🖥️](https://github.com/mahbub-khan/guess-secret-number) | A simple game to guess a secret number |
-|  2  | Dynamic Chart   | [Live Project: 🔗](https://mahbub-khan.github.io/dynamic-graph/)       | [Github 🖥️](https://github.com/mahbub-khan/dynamic-graph)       | A dynamic chart using chart.js         |
 
 ### Non-responsive:
 
